@@ -1,1 +1,1 @@
-**Public Repos for  Plonky configurations ([www.ploniky.com](http://www.ploinky.com/))**
+**Public Repos for  Plonky configurations ([www.ploinky.com](http://www.ploinky.com/))**
